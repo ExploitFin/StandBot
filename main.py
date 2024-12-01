@@ -4,7 +4,7 @@ from discord.ext import commands
 import json
 import os
 
-my_secret = "MTMwNzcwNjMwNDY0MjY4MjkwMQ.G2Uu4P.-ELf7t7pcehSL4KAS6FfZV2Ea-D6gr872uHwZk"
+my_secret = "MTMwNzcwNjMwNDY0MjY4MjkwMQ.GDX_Gn.bF6WhMawaeW9mrJRZjziOBMSQ0vBxwP5AJdx4c"
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 
 data_file = "stands_data.json"
